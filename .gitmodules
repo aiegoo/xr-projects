@@ -1,0 +1,6 @@
+[submodule "xr-motion"]
+	path = xr-motion
+	url = https://github.com/aiegoo/xr-motion
+[submodule "xr-facemask"]
+	path = xr-facemask
+	url = https://github.com/aiegoo/xr-facemask
